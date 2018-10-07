@@ -1,0 +1,6 @@
+verilog work "WIN.v"
+verilog work "HA7.v"
+verilog work "HA5.v"
+verilog work "HA.v"
+verilog work "GAMEOVER.v"
+verilog work "TETRIS.v"

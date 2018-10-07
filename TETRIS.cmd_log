@@ -1,0 +1,448 @@
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.syr" 
+xst -intstyle ise -ifn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.syr" 
+xst -intstyle ise -ifn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.syr" 
+xst -intstyle ise -ifn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.syr" 
+xst -intstyle ise -ifn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.syr" 
+xst -intstyle ise -ifn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.syr" 
+xst -intstyle ise -ifn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.syr" 
+xst -intstyle ise -ifn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.syr" 
+xst -intstyle ise -ifn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+xst -intstyle ise -ifn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+xst -intstyle ise -ifn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_33/Downloads/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+xst -intstyle ise -ifn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+xst -intstyle ise -ifn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.syr" 
+xst -intstyle ise -ifn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.syr" 
+xst -intstyle ise -ifn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+xst -intstyle ise -ifn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.syr" 
+xst -intstyle ise -ifn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.syr" 
+xst -intstyle ise -ifn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 
+xst -intstyle ise -ifn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.xst" -ofn "C:/Users/shlab_89/Desktop/TETRIS/TETRIS.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc tt.ucf -p xc3s500e-fg320-4 TETRIS.ngc TETRIS.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+par -w -intstyle ise -ol high -t 1 TETRIS_map.ncd TETRIS.ncd TETRIS.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TETRIS.twx TETRIS.ncd -o TETRIS.twr TETRIS.pcf -ucf tt.ucf 
+bitgen -intstyle ise -f TETRIS.ut TETRIS.ncd 

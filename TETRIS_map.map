@@ -1,0 +1,198 @@
+Release 14.7 Map P.20131013 (nt64)
+Xilinx Map Application Log File for Design 'TETRIS'
+
+Design Information
+------------------
+Command Line   : map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off
+-c 100 -o TETRIS_map.ncd TETRIS.ngd TETRIS.pcf 
+Target Device  : xc3s500e
+Target Package : fg320
+Target Speed   : -4
+Mapper Version : spartan3e -- $Revision: 1.55 $
+Mapped Date    : Tue Jan 10 00:54:40 2017
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+INFO:Security:50 - The XILINXD_LICENSE_FILE environment variable is set to
+'2100@140.126.24.10'.
+INFO:Security:53 - The LM_LICENSE_FILE environment variable is not set.
+INFO:Security:54 - 'xc3s500e' is a WebPack part.
+WARNING:Security:43 - No license file was found in the standard Xilinx license
+directory.
+WARNING:Security:44 - Since no license file was found,
+       please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses")
+       to assist in obtaining a license.
+WARNING:Security:42 - Your software subscription period has lapsed. Your current
+version of Xilinx tools will continue to function, but you no longer qualify for
+Xilinx software updates or new releases.
+----------------------------------------------------------------------
+Mapping design into LUTs...
+Running directed packing...
+WARNING:Pack:266 - The function generator M3/Mmux__varindex0007_13 failed to
+   merge with F5 multiplexer M3/Mmux__varindex0004_8_f5_0.  There is a conflict
+   for the GYMUX.  The design will exhibit suboptimal timing.
+WARNING:Pack:266 - The function generator M5/Mrom__varindex005561_111 failed to
+   merge with F5 multiplexer M5/Mrom__varindex005561_10_f51_f5.  There is a
+   conflict for the FXMUX.  The design will exhibit suboptimal timing.
+WARNING:Pack:266 - The function generator M5/Mrom__varindex006061_11 failed to
+   merge with F5 multiplexer M5/Mrom__varindex004851_10_f5.  There is a conflict
+   for the FXMUX.  The design will exhibit suboptimal timing.
+WARNING:Pack:266 - The function generator M1/Mmux__varindex0015_121 failed to
+   merge with F5 multiplexer M1/Mmux__varindex0014_11_f5_0.  There is a conflict
+   for the FXMUX.  The design will exhibit suboptimal timing.
+WARNING:Pack:266 - The function generator M5/Mrom__varindex007861_111 failed to
+   merge with F5 multiplexer M5/Mrom__varindex007761_10_f5.  There is a conflict
+   for the FXMUX.  The design will exhibit suboptimal timing.
+WARNING:Pack:266 - The function generator M1/Mmux__varindex0011_123 failed to
+   merge with F5 multiplexer M1/Mmux__varindex0010_14_f5.  There is a conflict
+   for the FXMUX.  The design will exhibit suboptimal timing.
+WARNING:Pack:266 - The function generator M1/Mmux__varindex0005_13 failed to
+   merge with F5 multiplexer M1/Mmux__varindex0004_13_f5.  There is a conflict
+   for the FXMUX.  The design will exhibit suboptimal timing.
+WARNING:Pack:266 - The function generator M1/Mmux__varindex0026_141 failed to
+   merge with F5 multiplexer M1/Mmux__varindex0022_10_f5.  There is a conflict
+   for the FXMUX.  The design will exhibit suboptimal timing.
+WARNING:Pack:266 - The function generator M1/Mmux__varindex0035_152 failed to
+   merge with F5 multiplexer M1/Mmux__varindex0031_15_f5.  There is a conflict
+   for the FXMUX.  The design will exhibit suboptimal timing.
+WARNING:Pack:266 - The function generator M1/Mmux__varindex0011_15 failed to
+   merge with F5 multiplexer M1/Mmux__varindex0009_12_f5.  There is a conflict
+   for the FXMUX.  The design will exhibit suboptimal timing.
+WARNING:Pack:266 - The function generator M9/Mrom__varindex003461_111 failed to
+   merge with F5 multiplexer M9/Mrom__varindex003051_10_f5.  There is a conflict
+   for the FXMUX.  The design will exhibit suboptimal timing.
+WARNING:Pack:266 - The function generator M3/Mmux__varindex0003_15 failed to
+   merge with F5 multiplexer M3/Mmux__varindex0002_12_f5.  There is a conflict
+   for the FXMUX.  The design will exhibit suboptimal timing.
+WARNING:Pack:266 - The function generator M3/Mmux__varindex0013_12 failed to
+   merge with F5 multiplexer M3/Mmux__varindex0011_11_f5.  There is a conflict
+   for the FXMUX.  The design will exhibit suboptimal timing.
+WARNING:Pack:266 - The function generator M3/Mmux__varindex0023_8 failed to
+   merge with F5 multiplexer M3/Mmux__varindex0021_10_f5.  There is a conflict
+   for the FXMUX.  The design will exhibit suboptimal timing.
+WARNING:Pack:266 - The function generator M3/_COND_809<1>_mmx_out1_inv11 failed
+   to merge with F5 multiplexer M3/Mmux__varindex0022_12_f5.  There is a
+   conflict for the GYMUX.  The design will exhibit suboptimal timing.
+WARNING:Pack:266 - The function generator M3/Mmux__varindex0036_15 failed to
+   merge with F5 multiplexer M3/Mmux__varindex0014_13_f5.  There is a conflict
+   for the FXMUX.  The design will exhibit suboptimal timing.
+WARNING:Pack:266 - The function generator M3/Mmux__varindex0024_141 failed to
+   merge with F5 multiplexer M3/Mmux__varindex0014_14_f5.  There is a conflict
+   for the FXMUX.  The design will exhibit suboptimal timing.
+WARNING:Pack:266 - The function generator M5/Mrom__varindex003561_10 failed to
+   merge with F5 multiplexer M5/Mrom__varindex003461_9_f5.  There is a conflict
+   for the FXMUX.  The design will exhibit suboptimal timing.
+WARNING:Pack:266 - The function generator M3/flag_inv2955_SW0 failed to merge
+   with F5 multiplexer M3/Mmux__varindex0030_15_f5.  There is a conflict for the
+   FXMUX.  The design will exhibit suboptimal timing.
+WARNING:Pack:266 - The function generator M3/Mmux__varindex0034_14 failed to
+   merge with F5 multiplexer M3/Mmux__varindex0024_11_f5.  There is a conflict
+   for the FXMUX.  The design will exhibit suboptimal timing.
+WARNING:Pack:266 - The function generator M5/Mrom__varindex002961_10 failed to
+   merge with F5 multiplexer M5/Mrom__varindex002861_9_f5.  There is a conflict
+   for the FXMUX.  The design will exhibit suboptimal timing.
+WARNING:Pack:266 - The function generator M5/Mrom__varindex003661_10 failed to
+   merge with F5 multiplexer M5/Mrom__varindex003761_9_f5.  There is a conflict
+   for the FXMUX.  The design will exhibit suboptimal timing.
+WARNING:Pack:266 - The function generator M5/Mrom__varindex007371_10 failed to
+   merge with F5 multiplexer M5/Mrom__varindex007271_9_f5.  There is a conflict
+   for the FXMUX.  The design will exhibit suboptimal timing.
+WARNING:Pack:266 - The function generator M1/Mmux__varindex0004_7 failed to
+   merge with F5 multiplexer M1/Mmux__varindex0004_6_f5.  There is a conflict
+   for the FXMUX.  The design will exhibit suboptimal timing.
+WARNING:Pack:266 - The function generator M1/Mmux__varindex0024_132 failed to
+   merge with F5 multiplexer M1/Mmux__varindex0021_8_f5_0.  There is a conflict
+   for the GYMUX.  The design will exhibit suboptimal timing.
+WARNING:Pack:266 - The function generator M1/Mmux__varindex0031_91 failed to
+   merge with F5 multiplexer M1/Mmux__varindex0030_8_f5.  There is a conflict
+   for the FXMUX.  The design will exhibit suboptimal timing.
+WARNING:Pack:266 - The function generator M1/Mmux__varindex0028_9 failed to
+   merge with F5 multiplexer M1/Mmux__varindex0029_7_f5.  There is a conflict
+   for the GYMUX.  The design will exhibit suboptimal timing.
+WARNING:Pack:266 - The function generator M1/Mmux__varindex0011_11 failed to
+   merge with F5 multiplexer M1/Mmux__varindex0008_9_f5_1.  There is a conflict
+   for the GYMUX.  The design will exhibit suboptimal timing.
+WARNING:Pack:266 - The function generator M3/Mmux__varindex0020_111 failed to
+   merge with F5 multiplexer M3/Mmux__varindex0017_7_f5.  There is a conflict
+   for the FXMUX.  The design will exhibit suboptimal timing.
+WARNING:Pack:266 - The function generator M3/Mmux__varindex0020_123 failed to
+   merge with F5 multiplexer M3/Mmux__varindex0017_8_f5.  There is a conflict
+   for the FXMUX.  The design will exhibit suboptimal timing.
+WARNING:Pack:266 - The function generator M3/Mmux__varindex0012_132 failed to
+   merge with F5 multiplexer M3/Mmux__varindex0011_12_f5_0.  There is a conflict
+   for the FXMUX.  The design will exhibit suboptimal timing.
+WARNING:Pack:266 - The function generator next_pos2_mux0000<6>1131 failed to
+   merge with F5 multiplexer next_pos2_mux0000<4>187_f5.  There is a conflict
+   for the FXMUX.  The design will exhibit suboptimal timing.
+WARNING:Pack:266 - The function generator M5/Mrom__varindex005561_111 failed to
+   merge with F5 multiplexer M5/Mrom__varindex005151_10_f5.  There is a conflict
+   for the FXMUX.  The design will exhibit suboptimal timing.
+WARNING:Pack:266 - The function generator M5/Mrom__varindex003661_111 failed to
+   merge with F5 multiplexer M5/Mrom__varindex002861_10_f5.  There is a conflict
+   for the FXMUX.  The design will exhibit suboptimal timing.
+Running delay-based LUT packing...
+Running related packing...
+Updating timing models...
+WARNING:PhysDesignRules:372 - Gated clock. Clock net M12/flag_not0001 is sourced
+   by a combinatorial pin. This is not good design practice. Use the CE pin to
+   control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net M5/flag_not0001 is sourced
+   by a combinatorial pin. This is not good design practice. Use the CE pin to
+   control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net M9/flag_not0001 is sourced
+   by a combinatorial pin. This is not good design practice. Use the CE pin to
+   control the loading of data into the flip-flop.
+
+Design Summary
+--------------
+
+Design Summary:
+Number of errors:      0
+Number of warnings:   37
+Logic Utilization:
+  Total Number Slice Registers:         521 out of   9,312    5%
+    Number used as Flip Flops:          518
+    Number used as Latches:               3
+  Number of 4 input LUTs:             8,573 out of   9,312   92%
+Logic Distribution:
+  Number of occupied Slices:          4,643 out of   4,656   99%
+    Number of Slices containing only related logic:   4,643 out of   4,643 100%
+    Number of Slices containing unrelated logic:          0 out of   4,643   0%
+      *See NOTES below for an explanation of the effects of unrelated logic.
+  Total Number of 4 input LUTs:       8,911 out of   9,312   95%
+    Number used as logic:             8,571
+    Number used as a route-thru:        338
+    Number used as Shift registers:       2
+
+  The Slice Logic Distribution report is not meaningful if the design is
+  over-mapped for a non-slice resource or if Placement fails.
+
+  Number of bonded IOBs:                 13 out of     232    5%
+  Number of BUFGMUXs:                     1 out of      24    4%
+
+Average Fanout of Non-Clock Nets:                4.57
+
+Peak Memory Usage:  334 MB
+Total REAL time to MAP completion:  12 secs 
+Total CPU time to MAP completion:   9 secs 
+
+NOTES:
+
+   Related logic is defined as being logic that shares connectivity - e.g. two
+   LUTs are "related" if they share common inputs.  When assembling slices,
+   Map gives priority to combine logic that is related.  Doing so results in
+   the best timing performance.
+
+   Unrelated logic shares no connectivity.  Map will only begin packing
+   unrelated logic into a slice once 99% of the slices are occupied through
+   related logic packing.
+
+   Note that once logic distribution reaches the 99% level through related
+   logic packing, this does not mean the device is completely utilized.
+   Unrelated logic packing will then begin, continuing until all usable LUTs
+   and FFs are occupied.  Depending on your timing budget, increased levels of
+   unrelated logic packing may adversely affect the overall timing performance
+   of your design.
+
+Mapping completed.
+See MAP report file "TETRIS_map.mrp" for details.
